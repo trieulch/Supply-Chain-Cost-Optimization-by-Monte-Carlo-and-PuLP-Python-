@@ -1,0 +1,11 @@
+plant_id,country,capacity_type,fixed_cost_usd_month,variable_cost_usd_unit,capacity_units_month
+UNI_LOW,United States,Low,1000000,14,500000
+UNI_HIGH,United States,High,2800000,14,1500000
+BRA_LOW,Brazil,Low,650000,9,500000
+BRA_HIGH,Brazil,High,1800000,9,1500000
+GER_LOW,Germany,Low,900000,13,500000
+GER_HIGH,Germany,High,2500000,13,1500000
+IND_LOW,India,Low,450000,6,500000
+IND_HIGH,India,High,1300000,6,1500000
+JAP_LOW,Japan,Low,850000,12,500000
+JAP_HIGH,Japan,High,2400000,12,1500000
