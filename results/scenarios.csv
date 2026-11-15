@@ -1,0 +1,4 @@
+scenario,total_cost_usd_month,change_vs_base_pct,open_plants
+base,57445000,0.0,"BRA_LOW, BRA_HIGH, IND_LOW, IND_HIGH, JAP_HIGH"
+freight_x5,71450000,24.4,"UNI_HIGH, BRA_LOW, BRA_HIGH, IND_LOW, IND_HIGH"
+double_fixed_IND_HIGH,58745000,2.3,"BRA_LOW, BRA_HIGH, IND_LOW, IND_HIGH, JAP_HIGH"
